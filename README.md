@@ -27,11 +27,11 @@ Please refer to the dataset website for more information on how to obtain the da
 
 ## Screenshots of Results
 
-### Accuracy vs Loss
+### Classification Matrix
 ![Result Screenshot](https://github.com/saurabh-028/Facial-Expression-Recognition/blob/main/results/mod%202%20class.png)
 
-### 
-![Screenshot (2)]([[https://user-images.githubusercontent.com/80406834/160917335-eedea09a-c629-461c-967f-d7c6af792d63.png](https://github.com/saurabh-028/Facial-Expression-Recognition/blob/main/results/mod%202%20acc%20vs%20loss.png)](https://github.com/saurabh-028/Facial-Expression-Recognition/blob/main/results/mod%202%20class.png))
+### Accuracy vs Loss
+![Result Screenshot2](https://github.com/saurabh-028/Facial-Expression-Recognition/blob/main/results/mod%202%20acc%20vs%20loss.png)
 
 ## Contributing
 
