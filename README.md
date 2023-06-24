@@ -33,6 +33,15 @@ Please refer to the dataset website for more information on how to obtain the da
 ### Accuracy vs Loss
 ![Result Screenshot2](https://github.com/saurabh-028/Facial-Expression-Recognition/blob/main/results/mod%202%20acc%20vs%20loss.png)
 
+### Confusion Matrix Heatmap
+![Result Screenshot3](https://github.com/saurabh-028/Facial-Expression-Recognition/blob/main/results/mod2%20conf.png)
+
+### Result 1
+![Result Screenshot4](https://github.com/saurabh-028/Facial-Expression-Recognition/blob/main/results/result%201.png)
+
+### Result 2
+![Result Screenshot5](https://github.com/saurabh-028/Facial-Expression-Recognition/blob/main/results/result%206.png)
+
 ## Contributing
 
 Contributions to this project are welcome. If you find any issues or have ideas for improvement, please submit a pull request. Make sure to follow the project's coding style and guidelines.
