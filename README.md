@@ -16,7 +16,7 @@ After Insertig the values, press predict button.
 # Here is another scenario when a person cannot claim an insurance.
 ![Screenshot (156)](https://user-images.githubusercontent.com/80406834/160920354-c1601d21-c074-4c59-bcc8-878d53b2af84.png)
 
-##Project Overview
+## Project Overview
 Facial Expression Recognition (FER) is the process of identifying emotions or expressions displayed on a person's face, such as happiness, sadness, anger, etc. This project aims to leverage machine learning algorithms to automatically detect and classify facial expressions from images or real-time video data.
 
 ##Features
@@ -26,7 +26,7 @@ Facial Expression Recognition (FER) is the process of identifying emotions or ex
 - Web interface for uploading images and detecting expressions
 - Evaluation of model performance using various metrics
 
-## 3. Installation
+## Installation
 
 1. Clone this repository to your local machine using `git clone https://github.com/your-username/facial-expression-recognition.git](https://github.com/saurabh-028/Facial-Expression-Recognition`.
 2. Install the required dependencies using `pip install -r requirements.txt`.
