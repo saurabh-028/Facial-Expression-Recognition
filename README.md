@@ -8,7 +8,6 @@ Facial Expression Recognition (FER) is the process of identifying emotions or ex
 - Preprocessing and feature extraction from facial images
 - Training of deep learning models for facial expression recognition
 - Real-time emotion detection from video streams
-- Web interface for uploading images and detecting expressions
 - Evaluation of model performance using various metrics
 
 ## Installation
